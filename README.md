@@ -1,16 +1,16 @@
-### Hi there, I'm Isukhitha 👋
 
-🚀 Aspiring Developer | Lifelong Learner from Sri Lanka
-🌱 Currently learning: Git, GitHub & Web Development
-🎯 Goal: To build my skills and land my first tech job
-💡 Motto: Starting from zero, but moving forward every day!
+### Hi, I'm Isukhitha 👋 | Web Developer from SL
 
-### 🛠️ Learning Journey
-- Day 1: Created my first GitHub profile ✨
-- Next: HTML, CSS & JavaScript
+I build clean & fast websites for small shops & students.
 
-### 📫 Let's Connect
-- GitHub: @ranasingeisukhitha-max
+**My Work:**
+Portfolio 👉 https://ranasingeisukhitha-max.github.io/My-portfolio-website/
 
----
-⭐️ Thanks for visiting my profile!
+**Services Rs.3000 සිට:**
+- Portfolio Website
+- Shop / Business Website
+- Landing Page
+
+Contact: WhatsApp me!
+
+Open for freelance work! 🚀
