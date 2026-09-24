@@ -1,5 +1,5 @@
 
-### Hi, I'm Isukhitha 👋 | Web Developer from SL
+### Hi, I'm sukhitha 👋 | Web Developer from SL
 
 I build clean & fast websites for small shops & students.
 
