@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Isukhitha 👋
 
-<!--
-**ranasingeisukhitha-max/ranasingeisukhitha-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer | Lifelong Learner from Sri Lanka
+🌱 Currently learning: Git, GitHub & Web Development
+🎯 Goal: To build my skills and land my first tech job
+💡 Motto: Starting from zero, but moving forward every day!
 
-Here are some ideas to get you started:
+### 🛠️ Learning Journey
+- Day 1: Created my first GitHub profile ✨
+- Next: HTML, CSS & JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- GitHub: @ranasingeisukhitha-max
+
+---
+⭐️ Thanks for visiting my profile!
